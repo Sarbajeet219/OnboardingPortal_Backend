@@ -13,7 +13,7 @@ import lombok.Setter;
 
 public class ItemCategoryDto {
 	
-	private int categoryId;
+	private Integer categoryId;
 	
 	private String categoryName;
 	
